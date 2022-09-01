@@ -1,0 +1,501 @@
+"student_id","cohort","gender","age","state","undergrad_gpa","track","conditional_admit"
+"g8rnm7mu08","Spring 2020","Male",33.2,"KS",3.05,"Part Time",TRUE
+"8ivl11vz58","Spring 2020","Female",28.6,"NY",2.96,"Full Time",TRUE
+"rzzkqhb0uh","Spring 2020","Male",30.5,"MA",2.76,"Part Time",FALSE
+"ui5ktto9et","Spring 2020","Male",42.1,"HI",2.74,"Part Time",TRUE
+"wnlicjueky","Spring 2020","Female",34.7,"PA",3.42,"Accelerated",FALSE
+"k62hggi037","Spring 2020","Female",30.2,"WY",2.7,"Full Time",FALSE
+"qsdxpxxde3","Spring 2020","Male",34.8,"NH",2.88,"Part Time",FALSE
+"anv0d4tl5v","Spring 2020","Female",35.3,NA,3.47,"Part Time",TRUE
+"3fxuhykqdf","Spring 2020","Male",37.2,"IN",3.01,"Part Time",TRUE
+"bc5pwt17k6","Spring 2020","Male",32.9,"MO",2.75,"Full Time",FALSE
+"qcrrj1lkxh","Spring 2020","Female",40.5,"SD",2.74,"Part Time",FALSE
+"zrpfe17m3d","Spring 2020","Male",33,"GA",3.1,"Full Time",FALSE
+"byqoymmfpo","Spring 2020","Female",28.6,"IL",3.56,"Full Time",FALSE
+"xiybclblc1","Spring 2020","Female",18.5,"CO",3.35,"Full Time",FALSE
+"h3hnhl70gy","Spring 2020","Male",25.6,"CT",3.44,"Accelerated",FALSE
+"d8oa9hlv7d","Spring 2020","Male",41.6,"CO",2.69,"Full Time",TRUE
+"r40ppqpvmp","Spring 2020","Male",30.4,"WV",3.29,"Full Time",FALSE
+"ze25svfn47","Spring 2020",NA,30.2,"WV",3.33,"Full Time",TRUE
+"0tuf0mqhv8","Spring 2020","Female",31.4,"AZ",3.32,"Full Time",TRUE
+"tu6693zwp5","Spring 2020","Male",39.7,"MI",3.06,"Part Time",TRUE
+"zusg2zutn5","Spring 2020","Male",30.4,"ND",3.34,"Full Time",FALSE
+"lp6pzjhwz5","Spring 2020","Male",28.4,"IL",3.32,"Accelerated",FALSE
+"dz5x5ordz7","Spring 2020","Male",42.8,"WA",2.6,"Part Time",TRUE
+"h02rucrgvp","Spring 2020","Female",27.8,"NE",NA,"Full Time",FALSE
+"gdzis1bygh","Spring 2020","Female",28.2,"ND",3.24,"Full Time",FALSE
+"ye1rvg1cd1","Spring 2020","Female",32.2,NA,2.98,"Full Time",FALSE
+"yj77corqlu","Spring 2020","Female",40.5,"NC",3.45,"Full Time",FALSE
+"dszm91gh2l","Spring 2020","Female",24.5,"FL",3.63,"Full Time",FALSE
+"v8w96qxugz","Spring 2020","Male",32.2,"TX",3.11,"Full Time",FALSE
+"3wv4sbsx37","Spring 2020","Male",37.1,"AL",3.46,"Full Time",FALSE
+"bpruk7ql9y","Spring 2020","Female",37.2,"CO",3.69,"Full Time",FALSE
+"itzjhzohod","Spring 2020","Female",28.8,"NC",3.63,"Full Time",FALSE
+"f0b0s5u3wc","Spring 2020","Male",28.5,"NV",3.83,"Accelerated",FALSE
+"7uhxe4vcmh","Spring 2020","Male",40.8,"ID",2.53,"Part Time",TRUE
+"c15y2bs7jd","Spring 2020","Male",27.6,"MD",3.15,"Full Time",TRUE
+"u14wz6wltr","Spring 2020","Male",24,"SC",3.31,"Accelerated",FALSE
+"phlhywshxd","Spring 2020","Male",37,"PA",3.08,"Part Time",FALSE
+"6gr99yhtx4","Spring 2020",NA,37.4,"MT",3.12,"Full Time",TRUE
+"gzacmv7c4t","Spring 2020",NA,34.2,"SD",2.79,"Part Time",FALSE
+"28r797yjdh","Spring 2020","Male",37.3,"AZ",2.48,"Part Time",TRUE
+"4c519z0d78","Spring 2020","Male",36.8,"NE",3.33,"Full Time",TRUE
+"7u75gfllvr","Spring 2020","Male",29.9,"WY",3.04,"Accelerated",FALSE
+"siult6fcvf","Spring 2020","Male",27.1,"MI",3.78,"Accelerated",FALSE
+"vz0boqrudi","Spring 2020","Male",33.4,NA,2.56,"Part Time",FALSE
+"9zrjqc2hdw","Spring 2020","Female",36.1,"WI",3.2,"Part Time",TRUE
+"n8r78w061x","Spring 2020","Male",24.6,"HI",3.28,"Accelerated",FALSE
+"vxm7t4jm4z","Spring 2020",NA,22.7,"IN",3.06,"Accelerated",FALSE
+"nsiiwxi7um","Spring 2020","Female",36.6,"CA",2.54,"Part Time",TRUE
+"s9q6qfzddo","Spring 2020","Male",31.7,"TX",3.38,"Part Time",TRUE
+"6lyb07shvc","Spring 2020","Female",37.4,"MN",3.24,"Part Time",FALSE
+"7lzu0obih5","Spring 2020","Female",18,"PA",3.75,"Accelerated",FALSE
+"mh2r8w1nse","Spring 2020","Male",37.4,"WA",3.47,"Part Time",TRUE
+"ytjh811186","Spring 2020","Male",32.6,"WY",3.27,"Accelerated",FALSE
+"yadhsh8lgd","Spring 2020","Male",35.6,"OR",3.57,"Part Time",FALSE
+"tulsl0px0z","Spring 2020","Male",33.8,"NE",3.43,"Full Time",TRUE
+"go56o965sx","Spring 2020","Male",27.8,"UT",3.52,"Accelerated",FALSE
+"2zsiaq3l4x","Spring 2020","Male",37.8,"SD",2.93,"Part Time",FALSE
+"3hj817vs6w","Spring 2020","Female",30.8,"TX",3.52,"Full Time",FALSE
+"eml133ah38","Spring 2020","Male",46.9,"KS",2.45,"Part Time",FALSE
+"0p3962qah0","Spring 2020","Female",43.4,"CO",3.29,"Part Time",FALSE
+"9fk0g0tg52","Spring 2020","Female",35.9,"OH",3.32,"Part Time",FALSE
+"ose5sqyrhp","Spring 2020","Female",22.3,NA,3.15,"Accelerated",FALSE
+"bj94vdsesg","Spring 2020","Male",45.1,"TN",3.46,"Part Time",TRUE
+"tv8v59w26c","Spring 2020","Male",35.4,"OK",3.49,"Full Time",TRUE
+"k7mep0ypqs","Spring 2020","Male",34.3,"HI",3.53,"Full Time",FALSE
+"2m1bpwvpc5","Spring 2020","Male",33.7,"IL",3.45,"Accelerated",FALSE
+"3681hjzgn5","Spring 2020","Female",33.6,"MO",3.81,"Full Time",FALSE
+"zoms9i5p05","Spring 2020","Female",22.9,"AZ",3.48,"Accelerated",FALSE
+"18dnz4kq3r","Spring 2020","Male",34.9,"MD",2.8,"Full Time",TRUE
+"8nezqzg85s","Spring 2020","Male",33.6,"NM",3.45,"Part Time",TRUE
+"1y2rvbku41","Spring 2020","Female",30.7,"MT",3.11,"Full Time",FALSE
+"0wcymvzw2d","Spring 2020","Female",40.9,"AZ",3.13,"Part Time",TRUE
+"o7e6jy7k3w","Spring 2020","Female",33.2,"OR",3.21,"Full Time",TRUE
+"z5dcbu1ezx","Spring 2020","Female",33.7,"OR",2.19,"Part Time",TRUE
+"xr0ue0vmrl","Spring 2020",NA,41.7,"TN",3.43,"Part Time",FALSE
+"vln5h6t4v1","Spring 2020","Male",39.9,"ID",2.93,"Part Time",TRUE
+"3si7456wfw","Spring 2020","Female",24.2,"MD",3.43,"Full Time",FALSE
+"agnox7tb50","Spring 2020","Male",30.3,"SD",2.93,"Full Time",FALSE
+"2zpv320osx","Spring 2020","Male",21.9,"PA",3.28,"Accelerated",FALSE
+"rzo9ufdezf","Spring 2020","Male",26.8,"NH",NA,"Accelerated",FALSE
+"yffkfmhq6m","Spring 2020","Female",40.1,"NC",3.7,"Part Time",TRUE
+"vc4j744oi7","Spring 2020","Male",24.3,"MO",3.62,"Accelerated",FALSE
+"ogwmb28rc2","Spring 2020","Female",35.3,"LA",2.99,"Full Time",FALSE
+"xg9as9ep9k","Spring 2020","Male",33.2,"FL",3.56,"Full Time",FALSE
+"0p9k2gylai","Spring 2020","Female",31.4,"TX",2.92,"Full Time",FALSE
+"60pcgc59up","Spring 2020","Male",30.2,"OK",3.49,"Full Time",FALSE
+"rdx46zm96j","Spring 2020","Female",27.5,"DE",3.24,"Full Time",FALSE
+"ivl0d03y0a","Spring 2020","Female",31,"CT",3.08,"Full Time",FALSE
+"b2v7wyt0os","Spring 2020",NA,26.9,"WY",3.6,"Accelerated",FALSE
+"52wf90mwb5","Spring 2020","Female",22.4,"IA",3.48,"Accelerated",FALSE
+"lt12pydnp7","Spring 2020",NA,32.9,"TX",3.28,"Full Time",FALSE
+"qmajv7kxrn","Spring 2020","Female",28.6,"NJ",3.33,"Full Time",FALSE
+"24sqhijblj","Spring 2020","Male",39.3,"TX",3.72,"Part Time",TRUE
+"uk8a7h01d5","Spring 2020","Male",44.4,"MD",2.72,"Part Time",TRUE
+"exxfrn9p73","Spring 2020","Male",27,"PA",3.15,"Accelerated",FALSE
+"xkodpfv7oo","Spring 2020","Male",29.5,"AK",3.37,"Full Time",TRUE
+"prk912n1z9","Spring 2020","Male",28.8,"DE",3.35,"Accelerated",FALSE
+"cxbb2t1ifo","Spring 2020","Female",32.2,"SC",3.04,"Full Time",TRUE
+"wlv6m36o2k","Spring 2020",NA,29.6,"AZ",3.81,"Accelerated",FALSE
+"kt25v5wmvn","Spring 2020","Female",21.6,"NM",3.76,"Accelerated",FALSE
+"wpy9pkx05j","Spring 2020","Female",36.3,"NV",2.44,"Part Time",FALSE
+"bympuyzn1s","Spring 2020","Male",29.2,"CT",2.88,"Full Time",FALSE
+"svjhnd54nh","Spring 2020","Female",32.5,"AZ",3.39,"Accelerated",FALSE
+"64nmbmyyj5","Spring 2020","Female",21.7,"KS",3.48,"Accelerated",FALSE
+"ss95817xy5","Spring 2020","Female",25.7,"IN",3.8,"Accelerated",FALSE
+"gwuv3wz4oa","Spring 2020","Male",26.4,"TN",3.54,"Full Time",TRUE
+"7cux8zlx59","Spring 2020","Male",38.4,"MA",2.82,"Part Time",TRUE
+"j6vr6i8z2w","Spring 2020","Female",22.4,"IN",3.36,"Accelerated",FALSE
+"1g3p3baoxa","Spring 2020","Male",28.1,"WV",3.48,"Accelerated",FALSE
+"i2ojafqdwe","Spring 2020","Male",23,"IL",3.31,"Accelerated",FALSE
+"2i6jbuqasm","Spring 2020","Male",31.5,"VT",NA,"Full Time",FALSE
+"1ml6vzpoe5","Spring 2020","Male",33.7,"MD",3.06,"Full Time",FALSE
+"da7roi0087","Spring 2020","Female",40.5,"VA",3,"Part Time",TRUE
+"cko5p10cad","Spring 2020","Female",32.5,"IL",3.43,"Full Time",FALSE
+"za1mpurr9k","Spring 2020","Male",30.1,"HI",3.61,"Full Time",TRUE
+"o797do8w96","Spring 2020","Male",27.7,"AK",3.18,"Accelerated",FALSE
+"e8nidoz4iu","Spring 2020","Female",26.8,"AZ",4.05,"Accelerated",FALSE
+"6rz92u4jt1","Spring 2020","Male",23.6,"IL",3.17,"Accelerated",FALSE
+"zy1fkt1bqu","Spring 2020","Male",24.7,"SC",3.39,"Accelerated",FALSE
+"90pfwo28cq","Spring 2020","Male",40.1,"ID",3.6,"Part Time",TRUE
+"pyrdhbf1qt","Spring 2020","Male",29.3,"NE",3.89,"Accelerated",FALSE
+"an4ofqrea4","Spring 2020","Female",23.9,"TN",3.32,"Accelerated",FALSE
+"zzkngq5ukz","Spring 2020",NA,38.7,"FL",2.75,"Full Time",FALSE
+"amvgna5jgt","Spring 2020","Female",39.5,"GA",NA,"Part Time",TRUE
+"ot79t2n3k3","Spring 2020","Female",40,"OR",NA,"Part Time",TRUE
+"tt8zl07ueq","Spring 2020","Male",45,"MT",2.89,"Part Time",FALSE
+"kqreok29ix","Spring 2020","Female",39.4,"AZ",2.75,"Full Time",TRUE
+"gcbex56rp8","Spring 2020","Female",31.4,NA,3.28,"Full Time",FALSE
+"npez1bowjd","Spring 2020","Male",34.1,"CO",3.58,"Full Time",FALSE
+"a5x0vgu032","Spring 2020","Male",39,"GA",3.07,"Full Time",TRUE
+"0ye99lvjbc","Spring 2020","Male",32.9,"DE",2.94,"Full Time",FALSE
+"7bxjai5qtt","Spring 2020","Male",28.2,"RI",3.24,"Full Time",FALSE
+"km3hiwcsq8","Spring 2020","Female",24,"MS",3.11,"Accelerated",FALSE
+"ygd65cf95r","Spring 2020","Male",28.8,NA,3.47,"Full Time",TRUE
+"zk7mufdhao","Spring 2020","Female",21.4,"VA",3.48,"Accelerated",FALSE
+"hzxn4fdw1v","Spring 2020","Female",37.2,"CO",3.08,"Part Time",TRUE
+"m1ig05kokr","Spring 2020","Female",34.1,"ME",2.75,"Part Time",TRUE
+"lj4twiutiq","Spring 2020","Female",43.5,"AL",2.45,"Full Time",FALSE
+"qvel2cmjks","Spring 2020","Male",37.1,"UT",2.87,"Part Time",TRUE
+"1t05vh2k9b","Spring 2020","Male",35.7,NA,3,"Part Time",TRUE
+"ya2fiwdzep","Spring 2020","Female",35.2,"TX",3.72,"Full Time",FALSE
+"pc98m4xu9d","Spring 2020","Female",36.7,"AK",3.27,"Full Time",TRUE
+"j62tt0ks1u","Spring 2020","Male",30.2,"VA",NA,"Full Time",FALSE
+"jfqkr4t43w","Spring 2020","Male",22.6,"AK",3.58,"Accelerated",FALSE
+"v2pdcsktx4","Spring 2020","Female",32.2,"MD",NA,"Full Time",FALSE
+"p7yko1z0ly","Spring 2020","Female",40,"CT",NA,"Part Time",TRUE
+"s979tyzf1c","Spring 2020","Female",39.9,"CT",2.9,"Full Time",TRUE
+"i6pdzhqgou","Spring 2020","Female",27.1,"NC",2.81,"Part Time",TRUE
+"x7vfzimwxv","Spring 2020","Female",34.1,"MN",2.92,"Full Time",TRUE
+"5bexd8ma9n","Spring 2020","Female",29.3,"IA",3.78,"Accelerated",FALSE
+"iwbbbzhzz1","Spring 2020","Male",39.7,"MO",2.98,"Part Time",FALSE
+"e13ibsacpy","Spring 2020","Male",33,"AL",3.71,"Accelerated",FALSE
+"y370rkm02x","Spring 2020","Female",27.8,"RI",3.49,"Full Time",TRUE
+"bb4qg6hjug","Spring 2020","Male",28.3,"NJ",3.56,"Full Time",FALSE
+"7hki2cio6g","Spring 2020","Female",31.3,"MO",3.23,"Full Time",FALSE
+"v2nsp75krj","Spring 2020",NA,27.8,"WY",3.73,"Accelerated",FALSE
+"z97z3434uo","Spring 2020","Female",22.6,"WY",3.41,"Accelerated",FALSE
+"benc2mdvzz","Spring 2020","Female",29.7,"WI",2.72,"Part Time",FALSE
+"mzpk8q0i6g","Spring 2020","Female",37.3,"VT",3.16,"Full Time",FALSE
+"c6phpe8lns","Spring 2020","Male",36.7,"NV",3.47,"Part Time",FALSE
+"24x7ll8qdh","Spring 2020","Female",29.8,"VT",3.89,"Full Time",FALSE
+"m3ap6dhsw9","Spring 2020","Male",30.2,"WA",3.22,"Full Time",FALSE
+"fayt9ghe72","Spring 2020","Female",28.3,"NJ",3.79,"Accelerated",FALSE
+"f3xykiktl5","Spring 2020",NA,28.9,"TN",3.43,"Full Time",FALSE
+"01g7m0qv7i","Spring 2020","Female",38.4,NA,3.04,"Part Time",FALSE
+"f35jxrozwi","Spring 2020",NA,34.3,"NV",3.37,"Full Time",FALSE
+"n7jujqqrqy","Spring 2020","Female",29.8,"WA",3.45,"Full Time",FALSE
+"mofte1lo60","Spring 2020","Male",31.6,"WA",3.16,"Full Time",FALSE
+"5ewfdpfs1r","Spring 2020","Male",33.7,"LA",NA,"Part Time",FALSE
+"clsppmi2as","Spring 2020",NA,28.4,"OK",3.28,"Accelerated",FALSE
+"u42rc6y1ut","Spring 2020","Female",36.1,"SD",3.28,"Full Time",FALSE
+"hvu69ihl3a","Spring 2020","Female",22.3,"MT",3.32,"Accelerated",FALSE
+"r2hw4wzx38","Spring 2020","Male",28.9,"NV",3.53,"Full Time",FALSE
+"i8i9x466oi","Spring 2020","Male",37.2,"MN",3,"Part Time",TRUE
+"50e3o6z91p","Spring 2020","Male",28.9,"MD",3.06,"Accelerated",FALSE
+"abhtipdaot","Spring 2020","Male",44.1,"NC",2.84,"Part Time",TRUE
+"0q18hyz2nz","Spring 2020","Female",30.2,"MT",3.58,"Full Time",FALSE
+"97d9iddh7p","Spring 2020","Female",30.5,"PA",NA,"Full Time",FALSE
+"naez4vm9um","Spring 2020","Male",29.1,"FL",3.12,"Full Time",FALSE
+"bm1un18nld","Spring 2020","Male",31.1,"ND",3.74,"Accelerated",FALSE
+"xaoo1iijyj","Spring 2020","Female",33,"WI",3.41,"Full Time",FALSE
+"kymnxpv12p","Spring 2020","Female",35.9,NA,3.05,"Full Time",TRUE
+"g145c8c724","Spring 2020","Female",37,"MN",2.84,"Part Time",FALSE
+"uy8t1mf38r","Spring 2020","Female",24.9,"IN",3.28,"Accelerated",FALSE
+"19a1oztpfb","Spring 2020","Female",30,"OK",3.34,"Full Time",FALSE
+"6rtj1ll3xw","Spring 2020","Female",27.2,"HI",4.01,"Accelerated",FALSE
+"83rps749k1","Spring 2020","Female",25.7,"OR",2.97,"Full Time",FALSE
+"satywryezz","Spring 2020","Male",28.1,"NJ",3.06,"Full Time",FALSE
+"f7f5rhx153","Spring 2020","Male",37.6,"MS",3.46,"Part Time",TRUE
+"m7h7pp2muw","Spring 2020","Female",29.1,"MS",3.46,"Full Time",FALSE
+"ezulqlqcv8","Spring 2020","Female",38,"KS",3.18,"Part Time",TRUE
+"th53s57kla","Spring 2020","Female",36.7,"ME",2.84,"Part Time",TRUE
+"wzcj47r20q","Spring 2020","Female",34.7,"RI",2.75,"Part Time",TRUE
+"podb3dab68","Spring 2020","Male",38.9,"KS",2.69,"Part Time",FALSE
+"f8eweanx5x","Spring 2020","Female",30.9,"MA",NA,"Full Time",FALSE
+"96zlhhashu","Spring 2020","Female",27.6,"VA",3.48,"Accelerated",FALSE
+"t1g9i54cra","Spring 2020","Male",35.3,"AZ",3.14,"Full Time",FALSE
+"tc9wwbwm00","Spring 2020",NA,21.8,"NM",3.58,"Accelerated",FALSE
+"5jdzp275qz","Spring 2020","Female",42.3,"CO",2.62,"Part Time",FALSE
+"69tz41o1rt","Spring 2020","Female",27.2,"GA",3.42,"Accelerated",FALSE
+"ghqlgbfwuk","Spring 2020","Female",28.5,"CT",3.41,"Full Time",TRUE
+"jsur0fjz5r","Spring 2020","Male",31.8,"UT",NA,"Full Time",FALSE
+"t4iput1jpn","Spring 2020","Male",38.1,"PA",2.85,"Part Time",FALSE
+"iptjbe2q8r","Spring 2020","Female",38.3,"CO",2.77,"Part Time",TRUE
+"j6jfsn6h32","Spring 2020","Female",45.5,"AK",2.89,"Part Time",TRUE
+"rqtkz3i7y1","Spring 2020","Female",27.5,"MN",3.05,"Full Time",FALSE
+"lmp1zr83tc","Spring 2020","Female",28.3,"TN",3.99,"Accelerated",FALSE
+"geb2o350a7","Spring 2020","Male",23.2,"PA",3.51,"Accelerated",FALSE
+"63i24to0c8","Spring 2020","Male",45.3,"HI",2.74,"Part Time",TRUE
+"cahyzari66","Spring 2020","Male",37.8,"NC",2.87,"Part Time",TRUE
+"fcwsd0omzz","Spring 2020","Female",32.1,"OK",2.69,"Part Time",TRUE
+"bbd6dwtuuf","Spring 2020","Female",36,"LA",2.77,"Full Time",FALSE
+"lmc5qj02hd","Spring 2020","Female",42.7,"MN",2.99,"Part Time",FALSE
+"72sktcxjnm","Spring 2020","Female",40.7,"TX",2.97,"Part Time",FALSE
+"mkils1vymh","Spring 2020","Female",29.6,NA,3.26,"Accelerated",FALSE
+"4k2ifnw1aq","Spring 2020","Female",23.4,"IL",3.42,"Accelerated",FALSE
+"7hqs61zw5w","Spring 2020","Female",30.1,"CO",3.43,"Accelerated",FALSE
+"9ya8r1a2vk","Spring 2020","Female",40,"MN",2.91,"Full Time",FALSE
+"5m9aqaeiwz","Spring 2020","Female",33.9,"WY",3,"Full Time",FALSE
+"g1ocbh4bis","Spring 2020","Male",31.2,"NC",3.23,"Full Time",FALSE
+"m3rtmdb81e","Spring 2020","Female",45.9,"WA",2.98,"Part Time",TRUE
+"luuf2v01ua","Spring 2020","Female",35.5,"CO",3.5,"Full Time",TRUE
+"zp2kfw8tdq","Spring 2020","Male",28.3,"MT",NA,"Accelerated",FALSE
+"6knutj5pda","Spring 2020","Male",34.2,"MA",3.99,"Full Time",FALSE
+"4x1q63biiz","Spring 2020","Male",32.6,"WV",3.33,"Full Time",FALSE
+"scrs4bdvzt","Spring 2020","Female",31.8,"ME",3.33,"Accelerated",FALSE
+"snlqa6og8a","Spring 2020","Female",39.4,"OH",3.17,"Part Time",FALSE
+"tcy8mmb5rq","Spring 2020","Male",38.2,"ME",3.4,"Part Time",FALSE
+"nawb9ixznn","Spring 2020","Male",26,"RI",2.85,"Full Time",FALSE
+"sq9pvdw6p4","Spring 2020",NA,38.3,"TX",2.9,"Part Time",FALSE
+"ljttrf7xs1","Spring 2020","Male",27.3,NA,3.17,"Full Time",FALSE
+"a0y07zgmwv","Spring 2020","Female",20,"ME",3.25,"Accelerated",FALSE
+"62n2zp7coq","Spring 2020","Female",23.6,"VT",3.25,"Accelerated",FALSE
+"28fllu3nt5","Spring 2020",NA,36.9,"WV",3.12,"Part Time",FALSE
+"ebvswc3sy5","Spring 2020","Female",22.7,"PA",3.46,"Accelerated",FALSE
+"aol56wjctx","Spring 2020","Male",30.9,"MS",2.99,"Accelerated",FALSE
+"dnlenxqka2","Spring 2020","Female",31.2,NA,3.95,"Full Time",FALSE
+"qts0en099s","Spring 2020","Female",35.6,"NH",NA,"Part Time",TRUE
+"jmsdnzu0x9","Spring 2020","Female",38.1,"WA",2.56,"Part Time",FALSE
+"ccxigj5i68","Spring 2020","Male",41.7,"WA",2.68,"Full Time",FALSE
+"vu3tehirwk","Spring 2020","Female",24.4,"OR",3.93,"Accelerated",FALSE
+"i33wqnqlz1","Spring 2020","Female",29.1,NA,4.02,"Accelerated",FALSE
+"1ef70qob73","Spring 2020","Female",44.1,"RI",2.87,"Part Time",TRUE
+"utcslulb0s","Spring 2020","Female",34.4,"WY",3.25,"Part Time",TRUE
+"me3dcf93pl","Spring 2020","Male",28.8,"NH",3.05,"Full Time",FALSE
+"g3ovaed300","Spring 2020","Female",37.4,"IA",2.89,"Part Time",TRUE
+"6iy4htbn74","Spring 2020","Male",33.2,"NJ",3.24,"Part Time",TRUE
+"kfsc9c5udz","Spring 2020","Male",32.9,"NV",2.82,"Full Time",FALSE
+"63hc9wysjk","Spring 2020","Female",44.3,"VA",2.77,"Part Time",FALSE
+"eub6poefgl","Spring 2020","Female",28.6,"VA",2.95,"Full Time",FALSE
+"fb1l9ns8pk","Spring 2020","Male",39.3,"VA",3.16,"Part Time",TRUE
+"2vcuv2d6hz","Spring 2020","Male",23.6,"IL",3.6,"Accelerated",FALSE
+"qjuewwebbm","Spring 2020","Male",25.3,"ND",3.25,"Accelerated",FALSE
+"pwi3e8bttn","Spring 2020","Male",34.3,"OH",3.4,"Full Time",TRUE
+"polz946eve","Spring 2020","Female",32.7,"RI",3.58,"Full Time",TRUE
+"pn5qx4n33v","Spring 2020","Male",30.9,"MD",3.08,"Full Time",FALSE
+"suurj5jcfu","Spring 2020","Female",34.1,NA,3.08,"Part Time",FALSE
+"b57abi0mb2","Spring 2020","Male",35.6,"MA",3.66,"Full Time",TRUE
+"o68vef5dvi","Spring 2020","Male",37.2,"MT",3.45,"Full Time",FALSE
+"f25h604a7p","Spring 2020","Female",36.8,"LA",3.08,"Full Time",FALSE
+"gsk3zzr37r","Spring 2020","Male",33.9,"MD",2.51,"Part Time",FALSE
+"esd4ksxjhn","Spring 2020","Female",31.2,"AR",3.29,"Full Time",FALSE
+"wf6ua8e1wn","Spring 2020","Female",25.7,"CT",NA,"Accelerated",FALSE
+"ocqr6onjgh","Spring 2020","Male",33.5,"NE",2.93,"Full Time",FALSE
+"8rbwr9q4tg","Spring 2020","Female",29.3,"HI",3.53,"Accelerated",FALSE
+"9zqqcogblg","Spring 2020","Male",21.2,"NJ",3.28,"Accelerated",FALSE
+"n29bd3xp5t","Spring 2020","Female",42.6,"IN",2.75,"Part Time",FALSE
+"m2pbqaupbf","Spring 2020","Male",38.1,"CT",2.72,"Part Time",TRUE
+"3zbhh2thed","Spring 2020","Female",36,NA,2.77,"Full Time",FALSE
+"a4gn4jz8ys","Spring 2020","Male",36,"NH",3.31,"Part Time",FALSE
+"3h3lrnvqpg","Spring 2020","Male",30,"VA",3.18,"Full Time",TRUE
+"1rz1njdxa6","Spring 2020","Female",31.3,"NV",NA,"Part Time",FALSE
+"9siitclnul","Spring 2020","Female",32.4,"NV",3.04,"Part Time",TRUE
+"4inan2e3vz","Spring 2020","Female",34.1,"KY",NA,"Full Time",FALSE
+"bco2a9nng1","Spring 2020",NA,29.9,"LA",3.64,"Full Time",FALSE
+"8xkk8dyojs","Spring 2020","Female",27.2,"VT",3.13,"Full Time",TRUE
+"sjce46vpzo","Spring 2020","Female",25.3,"DE",3.44,"Accelerated",FALSE
+"f6m4766bkz","Spring 2020","Male",26.4,"ID",2.92,"Part Time",FALSE
+"yz0loj3j8f","Spring 2020","Male",37.6,"DE",2.76,"Full Time",FALSE
+"mljtqopj2l","Spring 2020","Male",23.2,"MD",3.54,"Accelerated",FALSE
+"6i1ikjj1ko","Spring 2020","Female",37.9,NA,2.96,"Part Time",FALSE
+"o2hhui3ga6","Spring 2020","Male",36.2,"ND",2.82,"Part Time",TRUE
+"o5kblq8knc","Spring 2020","Female",34.6,"RI",3.46,"Accelerated",FALSE
+"qhadbn0xbk","Spring 2020","Male",32.9,"ME",3.33,"Part Time",TRUE
+"tkj6dh3dtl","Spring 2020","Male",34.1,"NH",2.55,"Part Time",FALSE
+"n8nxuf5j7u","Spring 2020","Female",39.1,"DE",3.52,"Part Time",FALSE
+"f3gv8kjeny","Spring 2020","Female",34.4,"HI",3.26,"Full Time",FALSE
+"7skx3v70z4","Spring 2020","Male",28.3,"NV",3.24,"Accelerated",FALSE
+"f6stf7q3o6","Spring 2020","Male",27.5,"NY",3.88,"Accelerated",FALSE
+"nkjjsajeux","Spring 2020","Male",32.7,NA,2.62,"Part Time",FALSE
+"agob2i6ndy","Spring 2020","Male",35.6,"NC",3.32,"Full Time",TRUE
+"pp0nbqi1oc","Spring 2020","Female",36.1,"MA",3.29,"Full Time",FALSE
+"470du0sfsg","Spring 2020","Female",24.4,"KS",3.64,"Accelerated",FALSE
+"2aqtaq6bcy","Spring 2020","Male",27.9,"MN",3.24,"Accelerated",FALSE
+"w6yrghsphz","Spring 2020","Male",28.2,"SD",3.75,"Accelerated",FALSE
+"8ssv2wyvl6","Spring 2020","Female",37.6,NA,3.38,"Part Time",FALSE
+"eeua8ozfdg","Spring 2020","Female",33.8,"HI",2.92,"Full Time",FALSE
+"cv6xk53ek5","Spring 2020","Male",36.6,"NJ",3.4,"Part Time",TRUE
+"cuwonkdjla","Spring 2020","Female",39.9,"WI",2.85,"Part Time",FALSE
+"jsdwl6w7k6","Spring 2020","Male",43.9,"IN",2.89,"Part Time",TRUE
+"kndz29gjo0","Spring 2020","Female",30.1,"RI",3.44,"Full Time",TRUE
+"yzyfd9bkgn","Spring 2020","Male",35,"RI",2.72,"Part Time",FALSE
+"pzhk7oppm5","Spring 2020",NA,34.4,"NJ",3.57,"Part Time",TRUE
+"i4oa0mdjls","Spring 2020","Male",34.8,"IN",3.65,"Full Time",FALSE
+"z1lr0t3cha","Spring 2020","Female",30.2,"CT",2.78,"Full Time",TRUE
+"1us1gb14pq","Spring 2020","Male",30.2,"AZ",3.68,"Full Time",FALSE
+"aavotv6goi","Spring 2020","Female",41.4,"VA",NA,"Part Time",TRUE
+"tcf4ru5o4b","Spring 2020","Male",32.2,"SD",3.46,"Full Time",FALSE
+"56ypn5mek5","Spring 2020","Male",27.6,"GA",3.05,"Full Time",FALSE
+"4xgsa7zgkz","Spring 2020","Male",27.2,"WV",NA,"Accelerated",FALSE
+"vh7u77ak90","Spring 2020","Male",35.4,"NJ",3.05,"Part Time",FALSE
+"azibq1t3pu","Spring 2020","Female",40.8,"VT",2.94,"Part Time",TRUE
+"tweggftrif","Spring 2020","Male",24.4,"ID",3.69,"Accelerated",FALSE
+"1k3i8zl6u3","Spring 2020",NA,26.8,"NY",2.97,"Full Time",FALSE
+"54tz6ui4wj","Spring 2020","Female",27.5,NA,3.62,"Full Time",FALSE
+"0f78vfp10n","Spring 2020","Male",36.4,"MO",2.41,"Part Time",TRUE
+"jjih6r6j3o","Spring 2020","Female",24.3,"MO",3.19,"Accelerated",FALSE
+"qqnkuk9ihk","Spring 2020","Male",18.3,"HI",4.1,"Accelerated",FALSE
+"cfe176hjb3","Spring 2020","Female",45.3,"OR",2.32,"Part Time",TRUE
+"m446ll4eqb","Spring 2020","Male",38.9,"NE",3.36,"Part Time",FALSE
+"eb3xhyjstp","Spring 2020","Male",33.1,"AL",3.73,"Full Time",FALSE
+"k3l92xqcm9","Spring 2020","Female",25.2,"NH",3.62,"Accelerated",FALSE
+"o7u7663dyv","Spring 2020","Female",39.5,"UT",3.27,"Part Time",TRUE
+"b06sy5zuj3","Spring 2020","Female",28.1,"NH",3.13,"Full Time",FALSE
+"qcjc3e8px6","Spring 2020","Female",30.4,"CT",3.3,"Full Time",FALSE
+"ehsx4fm2vg","Spring 2020","Male",28.5,"NY",3.24,"Full Time",TRUE
+"5j75s53kxi","Spring 2020",NA,27.5,"OK",2.96,"Full Time",FALSE
+"tyr8eyqgy1","Spring 2020",NA,35.3,"NV",3.4,"Full Time",TRUE
+"piqtrmda02","Spring 2020","Male",38,"LA",2.9,"Part Time",TRUE
+"b2apbalcdk","Spring 2020","Male",28.6,"MT",3.42,"Full Time",FALSE
+"wkkpesbadm","Spring 2020","Female",30.2,"MN",3.26,"Accelerated",FALSE
+"zacjexrxhs","Spring 2020","Male",33.8,"NY",NA,"Full Time",FALSE
+"1z5ink9xxz","Spring 2020","Female",43.3,NA,2.93,"Part Time",TRUE
+"9wg05kjz9t","Spring 2020","Male",23.3,"MS",3.33,"Accelerated",FALSE
+"6kzm01zib7","Spring 2020","Female",47.7,"MO",2.77,"Part Time",FALSE
+"lu0iv0ojnn","Spring 2020","Female",32.3,"NJ",3.31,"Full Time",FALSE
+"ditgeeqijr","Spring 2020","Female",27.3,"NV",3.63,"Part Time",TRUE
+"wp64s04pcz","Spring 2020","Male",29.6,"NV",NA,"Full Time",FALSE
+"2ceuipo3n2","Spring 2020","Male",23.9,"ND",3.05,"Full Time",FALSE
+"ml1sexf123","Spring 2020","Female",36.2,"OH",NA,"Full Time",TRUE
+"yb4d3vus1x","Spring 2020","Female",29.7,"OK",NA,"Part Time",TRUE
+"e9qdx91ysx","Spring 2020","Male",39,"MD",3.58,"Part Time",TRUE
+"jzdpmrexjp","Spring 2020","Female",39.3,"AR",3.27,"Part Time",FALSE
+"vb8cn11wop","Spring 2020",NA,26.8,"SC",3.43,"Accelerated",FALSE
+"23jaxbfj2v","Spring 2020","Female",27.6,NA,3.29,"Accelerated",FALSE
+"foz1vgue4u","Spring 2020","Male",22,"KS",3.76,"Accelerated",FALSE
+"jrs6621eb0","Spring 2020","Female",24.4,"DE",NA,"Full Time",FALSE
+"a8wimncl40","Spring 2020","Female",32.1,"IN",2.78,"Full Time",FALSE
+"fvecnwn5pd","Spring 2020","Female",32.6,"PA",3.55,"Full Time",FALSE
+"k5kod3gb8y","Spring 2020","Male",43.8,"MI",2.76,"Part Time",TRUE
+"is7ltx3ny9","Spring 2020","Female",43.9,"WI",2.51,"Part Time",TRUE
+"yt2u9uz6qy","Spring 2020","Female",33.7,"KY",NA,"Full Time",FALSE
+"9iduyvxjne","Spring 2020","Female",34,"UT",2.85,"Part Time",FALSE
+"qej6yl17i0","Spring 2020","Female",36.4,"LA",2.9,"Full Time",TRUE
+"gdny1qyvnu","Spring 2020","Male",38.6,"SD",3.26,"Part Time",TRUE
+"y77eucijw9","Spring 2020",NA,34.5,"IL",3.21,"Full Time",FALSE
+"lbe1ksiob2","Spring 2020","Female",28.1,"WA",NA,"Accelerated",FALSE
+"i7ovnorcht","Spring 2020","Male",25.3,"MT",2.94,"Full Time",FALSE
+"2wihkli60f","Spring 2020","Female",34.4,"MN",3.11,"Full Time",TRUE
+"k98irm1fvn","Spring 2020","Male",32,"LA",NA,"Part Time",TRUE
+"kavx97feyi","Spring 2020","Male",41.1,"MO",2.72,"Part Time",TRUE
+"8p7r1jriai","Spring 2020","Female",43.7,"OR",NA,"Part Time",TRUE
+"wdyqrzjiie","Spring 2020",NA,26.3,"MN",3.37,"Full Time",FALSE
+"fxgjntdjgp","Spring 2020","Female",27.5,"WA",2.74,"Full Time",FALSE
+"o3qdp9kwxl","Spring 2020","Male",30.1,"IL",NA,"Part Time",FALSE
+"hw3ua0ujvb","Spring 2020","Male",24.6,"RI",3.03,"Accelerated",FALSE
+"4taoz2kxmw","Spring 2020","Female",28.9,"KY",3.24,"Part Time",TRUE
+"7jvm7np86s","Spring 2020","Female",29.1,"CA",3.84,"Accelerated",FALSE
+"vnfw09d6rf","Spring 2020","Female",38.9,"WI",3.26,"Part Time",FALSE
+"zi0gpg2df2","Spring 2020","Female",35.8,"TN",2.85,"Part Time",TRUE
+"yp7lq8llmk","Spring 2020","Female",27.6,"WV",2.97,"Accelerated",FALSE
+"jtjzzbpw5y","Spring 2020","Female",34,"SD",3.54,"Full Time",FALSE
+"1il3v65vjk","Spring 2020",NA,32.8,"AZ",3.12,"Part Time",TRUE
+"ymumvtep5l","Spring 2020","Female",39.4,"DE",3.26,"Part Time",FALSE
+"3oiclj6n8r","Spring 2020","Male",25.6,"AK",3.33,"Full Time",FALSE
+"e79h1ltme3","Spring 2020","Male",26.7,"AR",3.04,"Accelerated",FALSE
+"26o5y40mry","Spring 2020","Female",37.9,"WV",3.07,"Full Time",FALSE
+"9x9trex0um","Spring 2020","Male",35.2,"AR",2.6,"Part Time",TRUE
+"vj5da645eh","Spring 2020","Male",33.5,NA,3.09,"Full Time",FALSE
+"fy1rxqs7vc","Spring 2020","Female",30,"KY",3.35,"Part Time",TRUE
+"et8ms4dryf","Spring 2020","Female",33.3,"RI",NA,"Part Time",TRUE
+"epbshx1hbu","Spring 2020",NA,24,"OK",3.35,"Full Time",FALSE
+"6z4uzqqw0c","Spring 2020","Male",32.4,"WA",3.37,"Accelerated",FALSE
+"pecx39xzze","Spring 2020","Female",25.2,"MI",3.58,"Accelerated",FALSE
+"m76s7sqkn9","Spring 2020","Male",30.6,"SD",2.99,"Full Time",FALSE
+"g6fpq4jfgx","Spring 2020","Female",36.6,"WI",2.71,"Part Time",FALSE
+"4oxqgv9yui","Spring 2020","Female",29.3,"RI",3.45,"Accelerated",FALSE
+"nppj7lnex9","Spring 2020","Male",38.5,NA,2.36,"Part Time",FALSE
+"p2t4yjdsa1","Spring 2020","Male",39.5,"ND",2.66,"Part Time",FALSE
+"3i6wzzlugb","Spring 2020","Male",23.5,"GA",2.97,"Accelerated",FALSE
+"14r98fc2dh","Spring 2020","Male",24.4,"WA",NA,"Accelerated",FALSE
+"lwgsp2ewc0","Spring 2020","Female",40.4,"IA",3.15,"Part Time",FALSE
+"01tbqkukvg","Spring 2020","Female",37.1,"TN",3.35,"Full Time",TRUE
+"wgarhxtmdz","Spring 2020","Male",24,"MD",3.34,"Accelerated",FALSE
+"fq1n8tmd3b","Spring 2020","Male",33,"ND",2.75,"Part Time",FALSE
+"ayx1bm9yti","Spring 2020","Female",20.6,"MN",3.49,"Accelerated",FALSE
+"6mopb8h0ou","Spring 2020","Female",38.3,"AZ",2.91,"Part Time",TRUE
+"18qeq31x2o","Spring 2020","Female",29.4,"GA",NA,"Full Time",FALSE
+"knnefgfjyc","Spring 2020","Male",36.8,"MI",2.96,"Part Time",TRUE
+"9n6aj873lc","Spring 2020","Female",36.2,"NH",3.35,"Part Time",TRUE
+"ew269ufa34","Spring 2020","Male",20.4,"NE",4.03,"Accelerated",FALSE
+"vncaehn5zx","Spring 2020","Female",26.7,"KS",3.4,"Accelerated",FALSE
+"u9197lzdtc","Spring 2020","Female",32.2,"SC",2.89,"Full Time",TRUE
+"vmkcvoevua","Spring 2020","Female",22.8,"WY",3.36,"Full Time",FALSE
+"srtg1xmy60","Spring 2020","Male",39.1,"GA",NA,"Full Time",TRUE
+"0r5zuuj8ob","Spring 2020","Female",34,"OK",2.91,"Full Time",FALSE
+"l04i59c5wf","Spring 2020","Male",29.4,"OH",3.41,"Part Time",FALSE
+"0qyqdhtxoy","Spring 2020","Male",19.4,"WY",3.37,"Accelerated",FALSE
+"evgqqp6y6k","Spring 2020","Female",28.4,"NE",2.85,"Full Time",FALSE
+"8hjaxwbhsb","Spring 2020","Male",37.8,"CO",2.82,"Part Time",FALSE
+"ftbdglzj63","Spring 2020","Male",32.2,"OH",3.29,"Full Time",FALSE
+"q3vplgny1o","Spring 2020","Male",25.1,"DE",3.34,"Accelerated",FALSE
+"tpknat2g36","Spring 2020",NA,23.2,"NH",2.84,"Full Time",FALSE
+"01f6d3gbzx","Spring 2020","Female",34.3,"WY",3.35,"Accelerated",FALSE
+"05wk94528o","Spring 2020","Female",29.1,"MD",2.77,"Full Time",FALSE
+"xt2hykur15","Spring 2020",NA,41.1,"AK",2.63,"Part Time",FALSE
+"1qbkljpfx3","Spring 2020","Female",42.6,"VT",2.99,"Full Time",FALSE
+"g88rhtzvdc","Spring 2020","Male",22.6,"NE",3.43,"Accelerated",FALSE
+"ouwmvzr1xi","Spring 2020","Male",38.9,"ME",3.14,"Part Time",FALSE
+"u92m5f8i8a","Spring 2020","Female",31.8,"VA",3.1,"Full Time",FALSE
+"io8cl1ivb1","Spring 2020","Male",34.9,"IA",2.95,"Part Time",FALSE
+"ivxj7zr3mc","Spring 2020","Female",20.4,"WA",NA,"Accelerated",FALSE
+"zm7s9sq3va","Spring 2020","Female",34.6,"MD",NA,"Full Time",TRUE
+"ka3es5csbo","Spring 2020","Male",26.2,"MT",2.89,"Full Time",FALSE
+"o00wzjsoxp","Spring 2020","Female",25.7,"MN",3.92,"Accelerated",FALSE
+"bedw0o19hd","Spring 2020","Female",43.2,"IN",3.26,"Part Time",TRUE
+"ysez8uq5cm","Spring 2020","Female",35.7,"DE",2.67,"Full Time",TRUE
+"dnnph4k0dr","Spring 2020","Female",33,"AK",2.86,"Full Time",FALSE
+"thwisc4qk5","Spring 2020","Male",25.3,"RI",3.26,"Accelerated",FALSE
+"06x6fn8yq5","Spring 2020","Male",32.9,"MT",3.26,"Part Time",TRUE
+"x4c8h4f0wx","Spring 2020","Male",39.5,NA,2.84,"Part Time",FALSE
+"yamwnjxxv4","Spring 2020","Male",37.1,"CT",2.91,"Part Time",TRUE
+"1h2dd1lv9a","Spring 2020","Female",33.2,"CO",3.4,"Part Time",FALSE
+"87s6jw3af0","Spring 2020","Female",41.8,"NJ",2.3,"Part Time",FALSE
+"p0khdbanpj","Spring 2020","Male",40.3,NA,2.85,"Full Time",FALSE
+"xifk2gs9lv","Spring 2020","Male",37.4,"IL",3.55,"Full Time",TRUE
+"9d3tjzw4e1","Spring 2020","Male",30.9,"TN",2.98,"Accelerated",FALSE
+"ffxuhlcgiw","Spring 2020","Male",25,"OK",3.52,"Accelerated",FALSE
+"fzoxf5uhu4","Spring 2020","Female",38.5,"HI",3.4,"Part Time",TRUE
+"h5tqdx3tcs","Spring 2020","Male",19.8,"GA",3.1,"Accelerated",FALSE
+"nsc9alwn4f","Spring 2020","Female",23.7,"OK",3.22,"Full Time",FALSE
+"bogoke33r0","Spring 2020",NA,41.5,"NJ",2.83,"Part Time",FALSE
+"pgew7tnr75","Spring 2020","Female",36.5,"MA",NA,"Part Time",FALSE
+"7bohge8opb","Spring 2020","Female",39.4,"NV",NA,"Part Time",TRUE
+"wqt2lylvpz","Spring 2020","Male",32.3,"SD",3.26,"Full Time",FALSE
+"kxbt6c2v3m","Spring 2020","Female",36.4,"ME",3.43,"Full Time",FALSE
+"sbbkqwa4ss","Spring 2020","Female",21.4,"IA",3.82,"Accelerated",FALSE
+"k1r1g39ul4","Spring 2020","Female",44.1,"IA",2.88,"Part Time",FALSE
+"kblftgpzhd","Spring 2020","Male",33.2,"AL",3.63,"Part Time",TRUE
+"yvkne3wcpe","Spring 2020","Female",33.7,"NE",2.8,"Full Time",TRUE
+"0pby34npay","Spring 2020","Male",24.7,"NV",2.87,"Full Time",FALSE
+"an1eyjg36b","Spring 2020","Male",35.3,"TN",3.22,"Part Time",TRUE
+"gp12nltvyy","Spring 2020","Female",20.8,NA,3.18,"Accelerated",FALSE
+"rntgd2rc8p","Spring 2020",NA,28.7,"MO",3.17,"Full Time",FALSE
+"i62ym1sz07","Spring 2020",NA,23.8,"IN",3.94,"Accelerated",FALSE
+"5iu14zdyd7","Spring 2020","Female",20.9,"NE",2.84,"Accelerated",FALSE
+"9aym90hwbm","Spring 2020","Male",24.7,"UT",3.08,"Full Time",FALSE
+"3cola1cjan","Spring 2020","Female",29.1,"TX",3.7,"Full Time",FALSE
+"ituqpz9x08","Spring 2020","Male",37.7,"DE",2.73,"Part Time",TRUE
+"etnfwk8hqz","Spring 2020","Female",31.4,"VT",2.78,"Part Time",TRUE
+"oopad3le1o","Spring 2020","Male",31.5,"NM",3.1,"Full Time",FALSE
+"n9whu7o27p","Spring 2020","Female",46.4,"MA",3.02,"Part Time",TRUE
+"zwlbltaibq","Spring 2020","Male",27,"VT",NA,"Full Time",FALSE
+"ohxlny4os9","Spring 2020","Male",33.1,"OR",3.63,"Accelerated",FALSE
+"3gf7r6l2xc","Spring 2020","Female",26.8,"FL",3.26,"Accelerated",FALSE
+"uvmiv0oezy","Spring 2020","Female",31,"KY",3.92,"Accelerated",FALSE
+"4lkho2v648","Spring 2020","Female",37.4,"PA",4.08,"Full Time",FALSE
+"w2t04qhynm","Spring 2020","Male",32.6,"NE",3.23,"Full Time",FALSE
+"w2mxs5a3sm","Spring 2020","Male",29.7,"ND",3.7,"Accelerated",FALSE
+"xqt47duu4u","Spring 2020","Male",23.5,"MO",3.47,"Full Time",FALSE
+"35wbchmtll","Spring 2020","Female",24.3,"CA",3.16,"Full Time",FALSE
+"3oznowzi66","Spring 2020","Female",35.2,"SC",2.88,"Full Time",FALSE
+"54bgm3n86a","Spring 2020","Male",26.9,"HI",3.26,"Accelerated",FALSE
+"dkfttxqunn","Spring 2020","Male",33.2,"FL",3.04,"Full Time",FALSE
+"oqpayfys9s","Spring 2020","Male",33,"TN",3.42,"Full Time",TRUE
+"natn5f0iop","Spring 2020","Female",43.7,"WY",2.93,"Part Time",FALSE
+"3u49mc8g9d","Spring 2020","Female",32.2,"WI",2.97,"Full Time",FALSE
+"6z7iowyd7x","Spring 2020","Male",24.5,"SC",3.32,"Full Time",FALSE
+"s8z4fben52","Spring 2020","Female",34.4,"OH",2.47,"Part Time",TRUE
+"tk2fj1l12a","Spring 2020","Female",41.2,"MT",2.89,"Part Time",FALSE
+"k23x4n44w4","Spring 2020",NA,31,"RI",3.43,"Part Time",TRUE
+"dmr0quepty","Spring 2020","Male",37.2,"AZ",3.27,"Full Time",FALSE
+"xwkcvfl1do","Spring 2020","Male",30.1,NA,3.04,"Full Time",FALSE
+"he9ysbrj48","Spring 2020","Male",35.5,"NH",3.44,"Part Time",TRUE
+"hn2vgs5f4n","Spring 2020","Male",33.4,"AZ",3.79,"Full Time",FALSE
+"dvm79du4xg","Spring 2020","Female",39.7,"NV",NA,"Part Time",TRUE
+"nefe2p37bd","Spring 2020","Male",29.4,"NJ",2.63,"Full Time",FALSE
+"qvqoyk05j7","Spring 2020","Female",38.4,"OH",3.36,"Full Time",TRUE
+"j53mr6xqtl","Spring 2020","Female",38.6,"MI",3.51,"Part Time",FALSE
+"7r6ni56o9o","Spring 2020","Female",29.4,"UT",3.92,"Accelerated",FALSE
+"wsk6iu3ztq","Spring 2020","Female",27.4,"MD",3.33,"Full Time",FALSE
+"qdfr6y18mc","Spring 2020","Female",30.5,"CO",2.89,"Part Time",TRUE
+"qsa5vomjol","Spring 2020","Male",29.5,"KS",2.9,"Full Time",FALSE
+"4pi1n3ggav","Spring 2020","Female",39.3,"WA",3.03,"Part Time",FALSE
+"0c4f7ektwg","Spring 2020","Male",35.4,"WI",3.13,"Full Time",FALSE
+"y5odp3yen5","Spring 2020","Male",31.9,"DE",NA,"Accelerated",FALSE
+"0x5vsvjps3","Spring 2020","Male",20.3,"DE",2.98,"Accelerated",FALSE
+"t9klgx4ey2","Spring 2020","Female",36.3,"AR",3.33,"Part Time",TRUE
+"kjdnz0rh58","Spring 2020","Female",36.5,"CO",3.54,"Full Time",FALSE
+"kvtppd1gel","Spring 2020",NA,29.3,"ID",3.46,"Full Time",FALSE
